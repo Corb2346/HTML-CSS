@@ -17,7 +17,7 @@ body{
 }
 
     header{
-    background: url(1366_2000.jpg);
+    background: url("1366_2000.jpg");
     background-position:100%;
     background-attachment: 100%;
     background-size:100%;
